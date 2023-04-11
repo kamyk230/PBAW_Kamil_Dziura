@@ -7,7 +7,7 @@
 <h3>Prosty kalkulator</h3>
 
 
-<form action="{$app_url}/app/calc.php/app/calc.php" method="post" class="pure-form pure-form-stacked"><br />
+<form action="{$app_url}/app/calc.php" method="post" class="pure-form pure-form-stacked"><br />
 	<legend>Kalkulator kredytowy</legend>
 	<fieldset>
 		<label for="id_amount">Kwota kredytu: </label>
